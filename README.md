@@ -11,7 +11,7 @@
 
 ### 게임 개발 과정
 - 보드게임 세트를 개발하기 위해서는, 이미지 파일이 필요합니다.(figma를 이용하여 직접 디자인)
-- ![게임 내에 사용한 이미지]https://github.com/nmmlee/Boardgame_SET/blob/main/Assets/Resources/card/BLUE_DIAMOND_FILLED_1.png
+- ![게임 내에 사용한 이미지](https://github.com/nmmlee/Boardgame_SET/blob/main/Assets/Resources/card/BLUE_DIAMOND_FILLED_1.png)
 - 그림을 보면, 카드에는 [그림], [색상], [그림 개수], [채워진 타입] 총 4가지의 속성을 가지고 있습니다.
   
 - 카드 데이터를 갖고 있는 상태로, 이미지는 unity에서 직접 그리는 방법도 있습니다.
